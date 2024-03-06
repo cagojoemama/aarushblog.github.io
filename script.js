@@ -2,7 +2,7 @@ function myFunction() {
     setTimeout(function() {
         alert('Oh you actually wanted a prize, well here have it.');
         var leoDiv2 = document.getElementById('leoText');
-        leoDiv2.innerHTML = '  <h1 style="color: aliceblue; font-size: 1.5em"; margin: 0; padding: 0;> Have a mango and mango juice as your prize ������ </h1>';
+        leoDiv2.innerHTML = '  <h1 style="color: aliceblue; font-size: 1.5em"; margin: 0; padding: 0;> Have a mango and mango juice as your prize 🥭🍹</h1>';
     }, 2000); 
 }
 function myHomework() {
