@@ -21,6 +21,7 @@ body {
     background-color: rgb(38, 33, 30);
     font-family: 'Noto Sans',Helvetica,Arial,sans-serif;
     color: aliceblue;
+    overflow: hidden;
 }
 
 #DBZ { 
@@ -65,4 +66,10 @@ body {
     height: 80px;
     filter: drop-shadow(15px 15px 6.9px rgba(0, 0, 0, 0.3));
     transition: 0.3s ease;
+}
+
+hr {
+    border-color: rgb(68, 58, 49);
+    border-style: groove;
+    width: 80%;
 }
